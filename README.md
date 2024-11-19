@@ -25,3 +25,7 @@ An example image of the simulation running\
 After downloading all the files, run Main.java.\
 Press "p" to play and pause the simulation (it will start out paused).\
 Press "r" to rerun the simulation.
+\
+\
+\
+The visualization for this program was provided by David Dobervich.
